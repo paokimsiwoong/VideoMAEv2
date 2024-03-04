@@ -1,6 +1,10 @@
 # Docker file from Python is inspired from here :
 # https://github.com/github/gitignore/blob/master/Python.gitignore
 
+.pre-commit-config.yaml
+code_prec.ipynb
+pths/
+
 # custom
 .vscode
 
